@@ -1,2 +1,2 @@
-www.abhijeetmanhas.github.io
+abhijeetmanhas.github.io
 my third webpage!
